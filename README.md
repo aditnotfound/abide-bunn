@@ -4,9 +4,6 @@ Code for the ABIDE-I BuNN operator comparison. Identity, GCN, trivial-bundle,
 learned-local, and learned BuNN on functional connectomes, plus the baseline
 and follow-up experiments.
 
-This repo is just the code. Papers and the longer study notes are in
-[bunn-abide](https://github.com/aditnotfound/bunn-abide).
-
 ## Setup
 
 ```powershell
